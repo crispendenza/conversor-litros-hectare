@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Conversor L/Ha</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="Texto1">Quantidade de álcool gasto por semana:</string>
+    <string name="Texto1Hint">20</string>
+    <string name="Texto2">Preço combustível atual:</string>
+    <string name="Texto2Hint">1.87</string>
+    <string name="action_settings">Settings</string>
+    <string name="litros">litros</string>
+    <string name="reais">reais</string>
+    <string name="estado">Estado</string>
+    <string name="sp">São Paulo</string>
+    <string name="rj">Rio de Janeiro</string>
+    <string name="mg">Minas Gerais</string>
+
+</resources>

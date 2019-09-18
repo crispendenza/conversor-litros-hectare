@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Conversor Etanol</string>
+    <string name="title_activity_principal">Conversor Etanol para m²</string>
+    <string name="Texto1">Valor gasto por semana de etanol</string>
+    <string name="Texto2">Preço atual do etanol</string>
+    <string name="action_settings">Settings</string>
+    <string name="ResultadoString1">Por ano, você utiliza uma área de plantação de cana-de-açúcar equivalente a</string>
+    <string name="ResultadoString2">m², aproximadamente </string>
+    <string name="ResultadoString3">quadras de futebol de salão.</string>
+    <string name="reais">reais</string>
+    <string name="estado">Estado</string>
+    <string name="buttonCalcular">Calcular</string>
+    <string name="sp">São Paulo</string>
+    <string name="rj">Rio de Janeiro</string>
+    <string name="mg">Minas Gerais</string>
+    <string name="pick_estado">Selecione o estado</string>
+    <string name="title_activity_result">Resultado</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
